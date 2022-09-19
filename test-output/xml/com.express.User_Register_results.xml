@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run on CHROME"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.687">
+  <properties />
+  
+  
+            <testcase name="Register_New_User" time="1.687" classname="com.express.User_Register" />
+      
+</testsuite>

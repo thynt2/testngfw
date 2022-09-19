@@ -1,0 +1,3 @@
+[INFO ] [2022-09-19 15:18:50,249] Click to Register button
+[INFO ] [2022-09-19 15:18:50,496] Verify Logo image is displayed
+[INFO ] [2022-09-19 15:18:51,128]  -------------------------- PASSED -------------------------- 

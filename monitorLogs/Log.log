@@ -1,0 +1,40 @@
+[INFO ] [2022-09-10 09:16:15,053] Open browserchrome
+[INFO ] [2022-09-10 09:16:18,601] Click to Register button
+[INFO ] [2022-09-10 09:19:40,276] Open browserchrome
+[INFO ] [2022-09-10 09:19:43,540] Click to Register button
+[INFO ] [2022-09-10 09:19:57,626] Open browser chrome
+[INFO ] [2022-09-10 09:20:00,878] Click to Register button
+[INFO ] [2022-09-10 09:20:59,678] Click to Register button
+[INFO ] [2022-09-10 09:21:00,496]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-10 09:29:24,278] Click to Register button
+[INFO ] [2022-09-10 09:29:24,617]  -------------------------- FAILED -------------------------- 
+[INFO ] [2022-09-10 09:41:59,562] Click to Register button
+[INFO ] [2022-09-10 09:41:59,869]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-10 09:43:28,524] Click to Register button
+[INFO ] [2022-09-10 09:43:28,827]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-10 09:44:12,869] Click to Register button
+[INFO ] [2022-09-10 09:44:13,154]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-10 09:44:50,006] Click to Register button
+[INFO ] [2022-09-10 09:44:50,232] Verify Logo image is displayed
+[INFO ] [2022-09-10 09:44:50,305]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-10 10:59:57,906] Click to Register button
+[INFO ] [2022-09-10 10:59:58,112] Verify Logo image is displayed
+[INFO ] [2022-09-10 10:59:58,190]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-10 11:00:40,964] Click to Register button
+[INFO ] [2022-09-10 11:00:41,193] Verify Logo image is displayed
+[INFO ] [2022-09-10 11:00:41,823]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-10 11:39:56,006] Click to Register button
+[INFO ] [2022-09-10 11:39:56,223] Verify Logo image is displayed
+[INFO ] [2022-09-10 11:39:56,848]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-10 12:00:13,224] Click to Register button
+[INFO ] [2022-09-10 12:00:13,427] Verify Logo image is displayed
+[INFO ] [2022-09-10 12:00:13,507]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-10 15:59:43,087] Click to Register button
+[INFO ] [2022-09-10 15:59:43,298] Verify Logo image is displayed
+[INFO ] [2022-09-10 15:59:43,932]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-11 08:50:57,086] Click to Register button
+[INFO ] [2022-09-11 08:50:57,299] Verify Logo image is displayed
+[INFO ] [2022-09-11 08:50:57,375]  -------------------------- PASSED -------------------------- 
+[INFO ] [2022-09-19 15:18:50,249] Click to Register button
+[INFO ] [2022-09-19 15:18:50,496] Verify Logo image is displayed
+[INFO ] [2022-09-19 15:18:51,128]  -------------------------- PASSED -------------------------- 
